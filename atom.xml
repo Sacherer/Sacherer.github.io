@@ -5,9 +5,9 @@
   <subtitle>SachersBlog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="www.sachers.top/"/>
+  <link href="https://www.sachers.top/"/>
   <updated>2019-10-11T03:00:56.307Z</updated>
-  <id>www.sachers.top/</id>
+  <id>https://www.sachers.top/</id>
   
   <author>
     <name>Sacher</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>利用java针对Mysql进行封装成（jdbc）工具类Dbutil完整实现（增删改查注册查重，适合初学者，附源码）</title>
-    <link href="www.sachers.top/2019/10/11/2019-10-11-jdbcutils/"/>
-    <id>www.sachers.top/2019/10/11/2019-10-11-jdbcutils/</id>
+    <link href="https://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/"/>
+    <id>https://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/</id>
     <published>2019-10-11T02:29:05.000Z</published>
     <updated>2019-10-11T03:00:56.307Z</updated>
     
@@ -36,16 +36,16 @@
     </summary>
     
     
-      <category term="javaWeb" scheme="www.sachers.top/categories/javaWeb/"/>
+      <category term="javaWeb" scheme="https://www.sachers.top/categories/javaWeb/"/>
     
     
-      <category term="Mysql" scheme="www.sachers.top/tags/Mysql/"/>
+      <category term="Mysql" scheme="https://www.sachers.top/tags/Mysql/"/>
     
-      <category term="javaWeb" scheme="www.sachers.top/tags/javaWeb/"/>
+      <category term="javaWeb" scheme="https://www.sachers.top/tags/javaWeb/"/>
     
-      <category term="JDBC" scheme="www.sachers.top/tags/JDBC/"/>
+      <category term="JDBC" scheme="https://www.sachers.top/tags/JDBC/"/>
     
-      <category term="工具类" scheme="www.sachers.top/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
+      <category term="工具类" scheme="https://www.sachers.top/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
     
   </entry>
   
