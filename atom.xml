@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SachersBlog</title>
   
-  
+  <subtitle>SachersBlog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.sachers.top/"/>
-  <updated>2019-10-10T10:12:09.380Z</updated>
+  <updated>2019-10-11T03:00:56.307Z</updated>
   <id>http://www.sachers.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.sachers.top/2019/10/10/hello-world/"/>
-    <id>http://www.sachers.top/2019/10/10/hello-world/</id>
-    <published>2019-10-10T10:05:41.251Z</published>
-    <updated>2019-10-10T10:12:09.380Z</updated>
+    <title>利用java针对Mysql进行封装成（jdbc）工具类Dbutil完整实现（增删改查注册查重，适合初学者，附源码）</title>
+    <link href="http://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/"/>
+    <id>http://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/</id>
+    <published>2019-10-11T02:29:05.000Z</published>
+    <updated>2019-10-11T03:00:56.307Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,23 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
+      <category term="javaWeb" scheme="http://www.sachers.top/categories/javaWeb/"/>
+    
+    
+      <category term="Mysql" scheme="http://www.sachers.top/tags/Mysql/"/>
+    
+      <category term="javaWeb" scheme="http://www.sachers.top/tags/javaWeb/"/>
+    
+      <category term="JDBC" scheme="http://www.sachers.top/tags/JDBC/"/>
+    
+      <category term="工具类" scheme="http://www.sachers.top/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
     
   </entry>
   
