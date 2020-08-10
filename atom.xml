@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.sachers.top/"/>
-  <updated>2020-07-14T04:45:29.282Z</updated>
+  <updated>2020-08-10T09:45:28.548Z</updated>
   <id>https://www.sachers.top/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【JAVA】理解Java类加载机制</title>
+    <title>【JAVA】面试总结——Java基础篇</title>
+    <link href="https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/"/>
+    <id>https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/</id>
+    <published>2020-08-10T09:37:15.000Z</published>
+    <updated>2020-08-10T09:45:28.548Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;1、封装、继承、多态&quot;&gt;&lt;a href=&quot;#1、封装、继承、多态&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java面试" scheme="https://www.sachers.top/categories/Java%E9%9D%A2%E8%AF%95/"/>
+    
+    
+      <category term="Java" scheme="https://www.sachers.top/tags/Java/"/>
+    
+      <category term="面试" scheme="https://www.sachers.top/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【JAVA】面试总结-理解Java类加载机制</title>
     <link href="https://www.sachers.top/2020/07/14/2020-07-14-jvm-1/"/>
     <id>https://www.sachers.top/2020/07/14/2020-07-14-jvm-1/</id>
     <published>2020-07-14T03:17:40.000Z</published>
-    <updated>2020-07-14T04:45:29.282Z</updated>
+    <updated>2020-08-10T09:41:18.274Z</updated>
     
     <summary type="html">
     
@@ -40,10 +69,12 @@
     </summary>
     
     
-      <category term="Java" scheme="https://www.sachers.top/categories/Java/"/>
+      <category term="Java面试" scheme="https://www.sachers.top/categories/Java%E9%9D%A2%E8%AF%95/"/>
     
     
       <category term="Java" scheme="https://www.sachers.top/tags/Java/"/>
+    
+      <category term="面试" scheme="https://www.sachers.top/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="JVM" scheme="https://www.sachers.top/tags/JVM/"/>
     
@@ -85,11 +116,11 @@
   </entry>
   
   <entry>
-    <title>利用java针对Mysql进行封装成（jdbc）工具类Dbutil完整实现（增删改查注册查重，适合初学者，附源码）</title>
+    <title>【JAVA】利用java针对Mysql进行封装成（jdbc）工具类Dbutil完整实现（增删改查注册查重，适合初学者，附源码）</title>
     <link href="https://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/"/>
     <id>https://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/</id>
     <published>2019-10-11T02:29:05.000Z</published>
-    <updated>2019-10-15T09:24:45.120Z</updated>
+    <updated>2020-08-10T09:40:38.139Z</updated>
     
     <summary type="html">
     
