@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.sachers.top/"/>
-  <updated>2020-08-10T09:59:20.721Z</updated>
+  <updated>2020-08-28T09:39:35.449Z</updated>
   <id>https://www.sachers.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【JAVA】面试总结——Java基础篇</title>
-    <link href="https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/"/>
-    <id>https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/</id>
-    <published>2020-08-10T09:37:15.000Z</published>
-    <updated>2020-08-10T09:59:20.721Z</updated>
+    <title>【JAVA】面试总结——线程池篇</title>
+    <link href="https://www.sachers.top/2020/08/12/2020-08-12-javainterview-executor/"/>
+    <id>https://www.sachers.top/2020/08/12/2020-08-12-javainterview-executor/</id>
+    <published>2020-08-12T09:22:15.000Z</published>
+    <updated>2020-08-28T09:39:35.449Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,38 @@
       
         
         
-          &lt;h5 id=&quot;1、封装、继承、多态&quot;&gt;&lt;a href=&quot;#1、封装、继承、多态&quot; class=&quot;headerlink&quot;
+          &lt;h4 id=&quot;本文目的&quot;&gt;&lt;a href=&quot;#本文目的&quot; class=&quot;headerlink&quot; title=&quot;本文目的&quot;&gt;&lt;/a&gt;本文目的&lt;/h4&gt;&lt;p&gt;总结面试线程池常见问题&lt;/p&gt;
+&lt;h5 id=&quot;参数解析&quot;&gt;&lt;a href=&quot;#参数解析&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java面试" scheme="https://www.sachers.top/categories/Java%E9%9D%A2%E8%AF%95/"/>
+    
+    
+      <category term="Java" scheme="https://www.sachers.top/tags/Java/"/>
+    
+      <category term="面试" scheme="https://www.sachers.top/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【JAVA】面试总结——Java基础篇</title>
+    <link href="https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/"/>
+    <id>https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/</id>
+    <published>2020-08-10T09:37:15.000Z</published>
+    <updated>2020-08-28T09:25:25.629Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;本文目的&quot;&gt;&lt;a href=&quot;#本文目的&quot; class=&quot;headerlink&quot; title=&quot;本文目的&quot;&gt;&lt;/a&gt;本文目的&lt;/h4&gt;&lt;p&gt;总结面试常见Java基础面试题  &lt;/p&gt;
+&lt;h5 id=&quot;1、封装、继承、多态&quot;&gt;&lt;a
         
       
     
@@ -87,7 +118,7 @@
     <link href="https://www.sachers.top/2019/11/14/2019-11-14-executor/"/>
     <id>https://www.sachers.top/2019/11/14/2019-11-14-executor/</id>
     <published>2019-11-14T05:57:23.000Z</published>
-    <updated>2019-11-14T07:44:21.537Z</updated>
+    <updated>2020-08-28T10:44:18.223Z</updated>
     
     <summary type="html">
     
@@ -95,7 +126,7 @@
       
         
         
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+          &lt;h4 id=&quot;本文目的&quot;&gt;&lt;a href=&quot;#本文目的&quot; class=&quot;headerlink&quot;
         
       
     

@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.sachers.top/2019/11/14/2019-11-14-executor/</loc>
+    
+    <lastmod>2020-08-28T10:44:18.223Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.sachers.top/2020/08/12/2020-08-12-javainterview-executor/</loc>
+    
+    <lastmod>2020-08-28T09:39:35.449Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.sachers.top/2020/08/10/2020-08-10-javainterview-javabase/</loc>
     
-    <lastmod>2020-08-10T09:59:20.721Z</lastmod>
+    <lastmod>2020-08-28T09:25:25.629Z</lastmod>
     
   </url>
   
@@ -19,13 +33,6 @@
     <loc>https://www.sachers.top/2019/10/11/2019-10-11-jdbcutils/</loc>
     
     <lastmod>2020-08-10T09:40:38.139Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sachers.top/2019/11/14/2019-11-14-executor/</loc>
-    
-    <lastmod>2019-11-14T07:44:21.537Z</lastmod>
     
   </url>
   
